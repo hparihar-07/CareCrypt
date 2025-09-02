@@ -11,7 +11,7 @@ import PatientDashboard from "./pages/dashboards/PatientDashboard";
 import DiagnosticDashboard from "./pages/dashboards/DiagnosticDashboard";
 import Creator from "./pages/dashboards/Creator";
 
-import Doctor from "./pages/doctor/doctor";
+import Doctor from "./pages/doctor/Doctor";
 import Patients from "./pages/doctor/Patients";
 import ViewRecord from "./pages/doctor/ViewRecord";
 import PatientProfile from "./pages/doctor/PatientProfile";
