@@ -64,9 +64,6 @@ export default function Navbar() {
 
 function NavLinks({ onClick = () => {} }) {
   const links = [
-    { path: "/doctor", label: "Doc" },
-    { path: "/patient", label: "Pat" },
-    { path: "/diagnostic", label: "Lab" },
     { path: "/", label: "Home" },
     { path: "/about", label: "About" },
     { path: "/register", label: "Register" },
